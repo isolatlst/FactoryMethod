@@ -1,0 +1,6 @@
+B:\Unity Courses\Projects\source\repos\Patterns\FactoryMethod\FactoryMethod\bin\Debug\FactoryMethod.exe
+B:\Unity Courses\Projects\source\repos\Patterns\FactoryMethod\FactoryMethod\bin\Debug\FactoryMethod.pdb
+B:\Unity Courses\Projects\source\repos\Patterns\FactoryMethod\FactoryMethod\obj\Debug\FactoryMethod.csproj.AssemblyReference.cache
+B:\Unity Courses\Projects\source\repos\Patterns\FactoryMethod\FactoryMethod\obj\Debug\FactoryMethod.csproj.CoreCompileInputs.cache
+B:\Unity Courses\Projects\source\repos\Patterns\FactoryMethod\FactoryMethod\obj\Debug\FactoryMethod.exe
+B:\Unity Courses\Projects\source\repos\Patterns\FactoryMethod\FactoryMethod\obj\Debug\FactoryMethod.pdb
